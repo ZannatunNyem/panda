@@ -1,0 +1,13 @@
+.panda-bg{
+    color: rgb(64, 60, 68);
+    background-color: #FEEAE9;}
+.cat img{
+    width: 100px;
+}
+.boll{
+    color: rgb(255, 255, 255);
+    border-radius: 8px;
+    padding: 9px 25px;
+    border: none;
+    background-color: #FF589B;
+}
